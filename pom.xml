@@ -4,7 +4,7 @@
 
   <groupId>com.truward.brikar.protobuf</groupId>
   <artifactId>brikar-protobuf</artifactId>
-  <version>2.0.1-SNAPSHOT</version>
+  <version>2.0.1</version>
   <packaging>pom</packaging>
 
   <description>
@@ -34,7 +34,7 @@
     <connection>scm:git:https://github.com:truward/brikar-protobuf.git</connection>
     <developerConnection>scm:git:https://github.com/truward/brikar-protobuf.git</developerConnection>
     <url>https://github.com/truward/brikar-protobuf.git</url>
-    <tag>HEAD</tag>
+    <tag>brikar-protobuf-2.0.1</tag>
   </scm>
 
   <licenses>
