@@ -32,7 +32,7 @@
 
   <scm>
     <connection>scm:git:https://github.com:truward/brikar-protobuf.git</connection>
-    <developerConnection>scm:git:https://github.com:truward/brikar-protobuf.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/truward/brikar-protobuf.git</developerConnection>
     <url>https://github.com/truward/brikar-protobuf.git</url>
     <tag>brikar-protobuf-2.0.1</tag>
   </scm>
